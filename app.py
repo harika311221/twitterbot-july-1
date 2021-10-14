@@ -20,7 +20,3 @@ while True:
   print(f'harika {u} Followers')
   time.sleep(60)
  
-  
-  
- 
-
